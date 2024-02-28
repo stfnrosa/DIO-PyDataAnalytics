@@ -1,0 +1,5 @@
+print(10 + 10 + 100)
+print(1.5 + 0.5)
+print(10 > 5)
+print(10 < 5)
+print("Python")
